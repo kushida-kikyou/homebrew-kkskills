@@ -2,7 +2,7 @@ class Kkskills < Formula
   desc "CLI tool to manage and link AI agent skills"
   homepage "https://github.com/<你的用户名>/kkskills"
   url "https://github.com/<你的用户名>/kkskills/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "0019dfc4b32d63c1392aa264aed2253c1e0c2fb09216f8e2cc269bbfb8bb49b5  kkskills.tar.gz"
+  sha256 "f0878d62265724ceff95d10a1852be2f029be11f8f20ad893c7075e4b52580cf  kkskills.tar.gz"
   license "MIT"
 
   def install
